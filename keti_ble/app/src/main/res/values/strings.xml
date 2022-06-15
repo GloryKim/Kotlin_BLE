@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">keti_ble</string>
+    <string name="scan_button">button2</string>
+</resources>
